@@ -259,7 +259,7 @@ let
       angular.ng-template = buildVscodeMarketplaceExtension {
         mktplcRef = {
           name = "ng-template";
-          publisher = "Angular";
+          publisher = "angular";
           version = "20.1.1";
           hash = "sha256-fcJXyuGow39uep6Giexft+3a/nnoJSsKdwjtAQKTMj0=";
         };
